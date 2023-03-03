@@ -5,7 +5,7 @@
     require_once '_inc/nav.php';
 ?>
 
-    <h1>Acceuil</h1>
+    <h1>jeux</h1>
 
 <?php
     //inclusions
